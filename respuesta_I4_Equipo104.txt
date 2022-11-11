@@ -1,0 +1,12 @@
+Fabrizio Maggiaiuolo
+Lautaro Garcia
+Marcos Cabrera
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+BLUE
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+YELLOW
+C- ¿Qué color de fondo tiene su página en el MASTER?
+YELLOW
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+ALFA
