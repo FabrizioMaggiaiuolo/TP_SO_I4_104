@@ -10,3 +10,17 @@ C- ¿Qué color de fondo tiene su página en el MASTER?
 YELLOW
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 ALFA
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+Si, beta y gamma
+F- ¿Qué problemas surgieron?
+Teniamos que actualizar nuestro repositorio local
+y en el Merge de Deserrallo hacia el main debido a que ya existia el archivo estilos.css
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+Se debe actualizar primero antes de hacer el push genereando que en el archivo se muestra las diferencias que se hicieron antes de hacer el git pull
+H- ¿Qué sucede si cada uno utiliza el push -f?
+Se sobreescribe el archivo
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+Un merge desde TESTING a DESARROLLO
